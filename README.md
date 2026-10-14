@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E3A8A,100:0891B2&text=Tillsoft&fontSize=76&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" width="100%" alt="Tillsoft" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FFCC54,50:FFB500,100:D78D00&text=Tillsoft&fontSize=76&fontColor=0B0B0B&fontAlignY=40&animation=fadeIn" width="100%" alt="Tillsoft" />
 
 <a href="https://github.com/crmapp28-nexa">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0891B2&center=true&vCenter=true&width=620&lines=Offline-first+desktop+software+for+real+businesses;Native+Windows+apps+built+with+Rust+%2B+React;Point+of+sale+%C2%B7+Inventory+%C2%B7+CRM+%C2%B7+Reporting;English+%26+Arabic%2C+right-to-left+aware" alt="Offline-first desktop software for real businesses" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=D78D00&center=true&vCenter=true&width=620&lines=Offline-first+desktop+software+for+real+businesses;Native+Windows+apps+built+with+Rust+%2B+React;Point+of+sale+%C2%B7+Inventory+%C2%B7+CRM+%C2%B7+Reporting;English+%26+Arabic%2C+right-to-left+aware" alt="Offline-first desktop software for real businesses" />
 </a>
 
 <br/>
@@ -87,8 +87,8 @@ flowchart LR
     ui <-->|"typed IPC commands"| core
     core <-->|"SeaORM · versioned migrations"| db
 
-    classDef front fill:#0891B2,stroke:#0E7490,color:#FFFFFF
-    classDef back fill:#1E3A8A,stroke:#1E40AF,color:#FFFFFF
+    classDef front fill:#FFB500,stroke:#D78D00,color:#0B0B0B
+    classDef back fill:#B46E00,stroke:#8A5400,color:#FFFFFF
     classDef store fill:#0F172A,stroke:#334155,color:#FFFFFF
     class ui front
     class core back
@@ -135,6 +135,6 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0891B2,50:1E3A8A,100:0F172A" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:D78D00,50:FFB500,100:FFCC54" width="100%" alt="" />
 
 </div>
