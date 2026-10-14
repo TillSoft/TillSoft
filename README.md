@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FFCC54,50:FFB500,100:D78D00&text=Tillsoft&fontSize=76&fontColor=0B0B0B&fontAlignY=40&animation=fadeIn" width="100%" alt="Tillsoft" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FFCC54,50:FFB500,100:D78D00&text=TillSoft&fontSize=76&fontColor=0B0B0B&fontAlignY=40&animation=fadeIn" width="100%" alt="TillSoft" />
 
 <a href="https://github.com/tillsoft">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=D78D00&center=true&vCenter=true&width=620&lines=Offline-first+desktop+software+for+real+businesses;Native+Windows+apps+built+with+Rust+%2B+React;Point+of+sale+%C2%B7+Inventory+%C2%B7+CRM+%C2%B7+Reporting;English+%26+Arabic%2C+right-to-left+aware" alt="Offline-first desktop software for real businesses" />
@@ -29,7 +29,7 @@
 
 ## ◆ What we build
 
-**Tillsoft** builds native desktop business software that does not need the cloud to work.
+**TillSoft** builds native desktop business software that does not need the cloud to work.
 
 Every product ships as a single Windows installer, keeps its data in a local PostgreSQL database, and runs at full speed with the network unplugged. The interface is React. The engine underneath is Rust. Nothing between them is a browser tab pretending to be an app.
 
@@ -52,17 +52,17 @@ Every product ships as a single Windows installer, keeps its data in a local Pos
 <tr>
 <td width="100%" valign="top">
 
-### 🧩 Tillsoft
+### 🧩 TillSoft
 
 **Complete CRM and point of sale for retail and wholesale.**
 
-Sales, inventory, purchasing and accounting in one binary. Warehouse-aware checkout with barcode entry, printable receipts, and a built-in calculator at the till. Licenses, activations and support run through the Tillsoft License Portal.
+Sales, inventory, purchasing and accounting in one binary. Warehouse-aware checkout with barcode entry, printable receipts, and a built-in calculator at the till. Licenses, activations and support run through the TillSoft License Portal.
 
 `Point of sale` `Invoicing` `Quotations` `Sale orders`
 `Stock transfers` `Purchase bills` `Cash registers`
 `Profit and loss` `PDF and Excel export` `Dual currency`
 
-<a href="https://github.com/tillsoft/Tillsoft-Setup/releases">
+<a href="https://github.com/TillSoft/TillSoft-Setup/releases">
   <img src="https://img.shields.io/badge/Download%20Installer-0F172A?style=for-the-badge&logo=windows&logoColor=white" alt="Download the installer" />
 </a>
 
