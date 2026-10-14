@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FFCC54,50:FFB500,100:D78D00&text=Tillsoft&fontSize=76&fontColor=0B0B0B&fontAlignY=40&animation=fadeIn" width="100%" alt="Tillsoft" />
 
-<a href="https://github.com/crmapp28-nexa">
+<a href="https://github.com/tillsoft">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=D78D00&center=true&vCenter=true&width=620&lines=Offline-first+desktop+software+for+real+businesses;Native+Windows+apps+built+with+Rust+%2B+React;Point+of+sale+%C2%B7+Inventory+%C2%B7+CRM+%C2%B7+Reporting;English+%26+Arabic%2C+right-to-left+aware" alt="Offline-first desktop software for real businesses" />
 </a>
 
@@ -62,7 +62,7 @@ Sales, inventory, purchasing and accounting in one binary. Warehouse-aware check
 `Stock transfers` `Purchase bills` `Cash registers`
 `Profit and loss` `PDF and Excel export` `Dual currency`
 
-<a href="https://github.com/crmapp28-nexa/Tillsoft-Setup/releases">
+<a href="https://github.com/tillsoft/Tillsoft-Setup/releases">
   <img src="https://img.shields.io/badge/Download%20Installer-0F172A?style=for-the-badge&logo=windows&logoColor=white" alt="Download the installer" />
 </a>
 
@@ -122,8 +122,8 @@ flowchart LR
 
 <div align="center">
 
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crmapp28-nexa&theme=github_dark" alt="Contribution statistics" />
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crmapp28-nexa&theme=github_dark" alt="Most used languages" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tillsoft&theme=github_dark" alt="Contribution statistics" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tillsoft&theme=github_dark" alt="Most used languages" />
 
 <br/>
 
