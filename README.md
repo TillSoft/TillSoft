@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E3A8A,100:0891B2&text=SynKode&fontSize=76&fontColor=FFFFFF&fontAlignY=34&desc=by%20NexaCore%20Co.&descSize=20&descAlignY=54&animation=fadeIn" width="100%" alt="SynKode by NexaCore Co." />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E3A8A,100:0891B2&text=Tillsoft&fontSize=76&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" width="100%" alt="Tillsoft" />
 
 <a href="https://github.com/crmapp28-nexa">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0891B2&center=true&vCenter=true&width=620&lines=Offline-first+desktop+software+for+real+businesses;Native+Windows+apps+built+with+Rust+%2B+React;Point+of+sale+%C2%B7+Inventory+%C2%B7+Warranty+%C2%B7+Reporting;English+%26+Arabic%2C+right-to-left+aware" alt="Offline-first desktop software for real businesses" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0891B2&center=true&vCenter=true&width=620&lines=Offline-first+desktop+software+for+real+businesses;Native+Windows+apps+built+with+Rust+%2B+React;Point+of+sale+%C2%B7+Inventory+%C2%B7+CRM+%C2%B7+Reporting;English+%26+Arabic%2C+right-to-left+aware" alt="Offline-first desktop software for real businesses" />
 </a>
 
 <br/>
@@ -29,7 +29,7 @@
 
 ## ◆ What we build
 
-**SynKode by NexaCore Co.** builds native desktop business software that does not need the cloud to work.
+**Tillsoft** builds native desktop business software that does not need the cloud to work.
 
 Every product ships as a single Windows installer, keeps its data in a local PostgreSQL database, and runs at full speed with the network unplugged. The interface is React. The engine underneath is Rust. Nothing between them is a browser tab pretending to be an app.
 
@@ -46,41 +46,24 @@ Every product ships as a single Windows installer, keeps its data in a local Pos
 
 ---
 
-## ◆ Products
+## ◆ Product
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-### 🧩 Synkode CRM
+### 🧩 Tillsoft
 
 **Complete CRM and point of sale for retail and wholesale.**
 
-Sales, inventory, purchasing and accounting in one binary. Warehouse-aware checkout with barcode entry, printable receipts, and a built-in calculator at the till.
+Sales, inventory, purchasing and accounting in one binary. Warehouse-aware checkout with barcode entry, printable receipts, and a built-in calculator at the till. Licenses, activations and support run through the Tillsoft License Portal.
 
 `Point of sale` `Invoicing` `Quotations` `Sale orders`
 `Stock transfers` `Purchase bills` `Cash registers`
 `Profit and loss` `PDF and Excel export` `Dual currency`
 
-<a href="https://github.com/crmapp28-nexa/NexaCore-CRM-Setup/releases">
+<a href="https://github.com/crmapp28-nexa/Tillsoft-Setup/releases">
   <img src="https://img.shields.io/badge/Download%20Installer-0F172A?style=for-the-badge&logo=windows&logoColor=white" alt="Download the installer" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ ZTC Care & Warranty
-
-**Customer care and warranty operations, end to end.**
-
-Warranty claims from intake to delivery, with the parts inventory, payments and maintenance centers that surround them.
-
-`Warranty tracking` `Order pipeline` `Parts inventory`
-`Customer payments` `Maintenance centers` `Warehouses`
-`Barcode scanning` `Activity log` `Auto-update`
-
-<a href="https://github.com/crmapp28-nexa/ZTC-CARE-WARRANTY-Releases/releases">
-  <img src="https://img.shields.io/badge/Latest%20Release-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Latest release" />
 </a>
 
 </td>
